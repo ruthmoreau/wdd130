@@ -60,3 +60,12 @@ footer{
     background-color: #72DDF7; 
     color: #8093F1;
 }
+.logo{
+    width: 80px;
+}
+.icon{
+    width: 80px;
+}
+#hero-img{
+    width: 100%;
+}
