@@ -13,6 +13,7 @@ content{
 }
 nav a{
     text-align: center;
+    text-decoration: none;
 }
 #hero-msg h1{
     text-align: center;
@@ -44,10 +45,12 @@ nav a:hover{
 .book{
         background-color: #72DDF7; 
         color: #8093F1;
+        text-decoration: none;
     }
 .join{
     background-color: #72DDF7; 
     color: #8093F1;
+    text-decoration: none;
 }
 .book:hover{
     background-color: #72DDF7;
@@ -68,4 +71,7 @@ nav a:hover{
 footer{
     background-color: #72DDF7; 
     color: #8093F1;
+}
+footer a{
+    text-decoration: none;
 }
