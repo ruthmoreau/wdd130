@@ -35,41 +35,41 @@ body{
     color: black;
 }
 header{
-    background-color: #8093F1; 
+    background-color: #B388EB; 
     color: black;
 }
 nav a:hover{
-    background-color: #8093F1; 
+    background-color: B388EB; 
     color: black;
 }
 .book{
-        background-color: #8093F1; 
+        background-color: #B388EB; 
         color: black;
         text-decoration: none;
     }
 .join{
-    background-color: #8093F1; 
+    background-color: #B388EB; 
     color: black;
     text-decoration: none;
 }
 .book:hover{
-    background-color: #8093F1;
+    background-color: #B388EB;
     color: black; 
 }
 .join:hover{
-    background-color: #8093F1; 
+    background-color: #B388EB; 
     color: black;
 }
 #background{
-    background-color: #8093F1; 
+    background-color: #B388EB; 
     color: black;
 }
 .msg{
-    background-color: #8093F1; 
+    background-color: #B388EB; 
     color: black;
 }
 footer{
-    background-color: #8093F1; 
+    background-color: #B388EB; 
     color: black;
 }
 footer a{
