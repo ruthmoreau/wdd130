@@ -21,32 +21,32 @@ main{
     height: 725px;
 }
 body{
-    background-color: #fcfbfb; 
+    background-color: #613d3d; 
 }
 header{
-    background-color: #fcfbfb; 
+    background-color: #613d3d; 
 }
 nav a:hover{
-    background-color: #fcfbfb; 
+    background-color: #613d3d; 
 }
 .book{
-        background-color: #fcfbfb; 
+        background-color: #613d3d; 
     }
 .join{
-    background-color: #fcfbfb; 
+    background-color: #613d3d; 
 }
 .book:hover{
-    background-color: #fcfbfb; 
+    background-color: #613d3d; 
 }
 .join:hover{
-    background-color: #fcfbfb; 
+    background-color: #613d3d; 
 }
 #background{
-    background-color: #fcfbfb; 
+    background-color: #613d3d; 
 }
 .msg{
-    background-color: #fcfbfb; 
+    background-color: #613d3d; 
 }
 footer{
-    background-color: #fcfbfb; 
+    background-color: #613d3d; 
 }
