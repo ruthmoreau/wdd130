@@ -20,3 +20,33 @@ main{
 #background{
     height: 725px;
 }
+body{
+    background-color: #fcfbfb; 
+}
+header{
+    background-color: #fcfbfb; 
+}
+nav a:hover{
+    background-color: #fcfbfb; 
+}
+.book{
+        background-color: #fcfbfb; 
+    }
+.join{
+    background-color: #fcfbfb; 
+}
+.book:hover{
+    background-color: #fcfbfb; 
+}
+.join:hover{
+    background-color: #fcfbfb; 
+}
+#background{
+    background-color: #fcfbfb; 
+}
+.msg{
+    background-color: #fcfbfb; 
+}
+footer{
+    background-color: #fcfbfb; 
+}
