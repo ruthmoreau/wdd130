@@ -22,31 +22,41 @@ main{
 }
 body{
     background-color: #72DDF7; 
+    color: #8093F1;
 }
 header{
     background-color: #72DDF7; 
+    color: #8093F1;
 }
 nav a:hover{
     background-color: #72DDF7; 
+    color: #8093F1;
 }
 .book{
         background-color: #72DDF7; 
+        color: #8093F1;
     }
 .join{
     background-color: #72DDF7; 
+    color: #8093F1;
 }
 .book:hover{
-    background-color: #72DDF7; 
+    background-color: #72DDF7;
+    color: #8093F1; 
 }
 .join:hover{
     background-color: #72DDF7; 
+    color: #8093F1;
 }
 #background{
     background-color: #72DDF7; 
+    color: #8093F1;
 }
 .msg{
     background-color: #72DDF7; 
+    color: #8093F1;
 }
 footer{
     background-color: #72DDF7; 
+    color: #8093F1;
 }
