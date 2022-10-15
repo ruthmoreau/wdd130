@@ -26,6 +26,7 @@ nav a{
     padding: 35px;
 }
 .home-title{
+    text-align: center;
     font-family: 'Rock Salt', Arial, sans-serif;
     font-size: 2em;
     margin-top: 10px;
