@@ -94,6 +94,7 @@ nav a:hover{
     background-color: #B388EB; 
     color: black;
     font-family: 'Roboto', Arial, sans-serif;
+    line-height: 1.5em;
 }
 .msg p{
     font-size: 8em;
