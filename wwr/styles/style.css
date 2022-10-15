@@ -8,6 +8,7 @@
 }
 .icon{
     width: 80px;
+    padding-top: 10px;
 }
 #hero-img{
     width: 100%;
@@ -18,10 +19,11 @@
 #hero{
     font-family: 'Roboto', Arial, sans-serif;
 }
-nav a{
+#nav a{
     text-align: center;
     text-decoration: none;
     font-family: 'Roboto', Arial, sans-serif;
+    padding: 35px;
 }
 .home-title{
     font-family: 'Rock Salt', Arial, sans-serif;
@@ -39,24 +41,29 @@ nav a{
     text-align: center;
     font-family: 'Roboto', Arial, sans-serif;
 }
-main{
+#main{
     text-align: center;
     font-family: 'Roboto', Arial, sans-serif;
 }
 #background{
     height: 725px;
 }
-body{
+#body{
     background-color: #72DDF7; 
     color: black;
     font-family: 'Roboto', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
 }
-header{
+#h2{
+    margin: 0;
+}
+#header{
     background-color: #B388EB; 
     color: black;
     font-family: 'Rock Salt', Arial, sans-serif;
 }
-nav a:hover{
+#nav a:hover{
     background-color: B388EB; 
     color: black;
     font-family: 'Roboto', Arial, sans-serif;
@@ -67,6 +74,7 @@ nav a:hover{
         text-decoration: none;
         font-family: 'Roboto', Arial, sans-serif;
         font-size: 18px;
+        padding: 15px 30px;
     }
 .join{
     background-color: #B388EB; 
@@ -74,6 +82,7 @@ nav a:hover{
     text-decoration: none;
     font-family: 'Roboto', Arial, sans-serif;
     font-size: 18px;
+    padding: 15px 30px;
 }
 .book:hover{
     background-color: #B388EB;
@@ -95,24 +104,34 @@ nav a:hover{
     color: black;
     font-family: 'Roboto', Arial, sans-serif;
     line-height: 1.5em;
+    padding: 35px;
 }
 .msg p{
     font-size: 8em;
+    padding-bottom: 15px;
 }
-footer{
+#footer{
     background-color: #B388EB; 
     color: black;
     font-family: 'Roboto', Arial, sans-serif;
+    padding: 25px 50px;
+    padding-top: 15px;
 }
-footer a{
+#footer a{
     text-decoration: none;
     font-family: 'Roboto', Arial, sans-serif;
 }
-footer p{
+#footer p{
     font-size: 1.2em;
     font-family: 'Roboto', Arial, sans-serif;
 }
-footer p a:hover{
+#footer p a:hover{
     text-decoration: underline;
     font-family: 'Roboto', Arial, sans-serif;
+}
+#logo_link{
+    padding-top: 5px;    
+}
+.social img{
+    padding-top: 15px;
 }
