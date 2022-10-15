@@ -12,10 +12,16 @@
 #hero-img{
     width: 100%;
 }
+#hero{
+    font-family: Roboto, Arial, sans-serif;
+}
 nav a{
     text-align: center;
     text-decoration: none;
     font-family: Roboto, Arial, sans-serif;
+}
+.home-title{
+    font-family: Rock Salt, Arial, sans-serif;
 }
 #hero-msg h1{
     text-align: center;
@@ -99,9 +105,6 @@ footer p{
 footer p a:hover{
     text-decoration: underline;
     font-family: Roboto, Arial, sans-serif;
-}
-.home-title{
-    font-family: Rock Salt, Arial, sans-serif;
 }
 .msg h2{
     font-family: Rock Salt, Arial, sans-serif;
