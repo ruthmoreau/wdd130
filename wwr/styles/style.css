@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&family=Rock+Salt&display=swap');
 #content{
     max-width: 1600px;
-    margin: o auto;
+    margin: 0 auto;
 }
 .logo{
     width: 80px;
@@ -72,7 +72,7 @@ header{
     font-family: 'Rock Salt', Arial, sans-serif;
 }
 nav a:hover{
-    background-color: B388EB; 
+    background-color: #B388EB; 
     color: black;
     font-family: 'Roboto', Arial, sans-serif;
 }
