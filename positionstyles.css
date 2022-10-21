@@ -39,6 +39,7 @@
   width: 100px; 
   height: 100px; 
   background-color: red; 
+  Grid-row: 1; 
 } 
 .green2 { 
   width: 100px; 
