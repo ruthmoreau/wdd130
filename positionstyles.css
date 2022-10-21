@@ -34,10 +34,6 @@
 .content2 {
   /* This is the parent of the activity 2 boxes. */
   display: grid;
-  Grid-column: 1;
-  Grid-row: 1; 
-  Padding-top: 20%;
-  z-index: 1;
 }
 .red2 {
   width: 100px; 
@@ -48,6 +44,10 @@
   width: 100px; 
   height: 100px; 
   background-color: green; 
+  Grid-column: 1;
+  Grid-row: 1; 
+  Padding-top: 20%;
+  z-index: 1;
 } 
 .yellow2 {
   width: 100px; 
