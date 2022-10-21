@@ -34,7 +34,10 @@
 .content2 {
   /* This is the parent of the activity 2 boxes. */
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
+  Grid-column: 1;
+  Grid-row: 1; 
+  Padding-top: 20%;
+  z-index: 1;
 }
 .red2 {
   width: 100px; 
