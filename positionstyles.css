@@ -38,26 +38,27 @@
   width: 100px; 
   height: 100px; 
   background-color: red; 
-  position: static;
 } 
 .green2 { 
   width: 100px; 
   height: 100px; 
   background-color: green; 
-  position: absolute;
-  top: 25px'
-  right: 25px;
-
+  margin-top: -50px;
+  margin-left: 50px;
 } 
 .yellow2 {
   width: 100px; 
   height: 100px; 
-  background-color: gold; 
+  background-color: gold;
+  margin-top: -50px;
+  margin-left: 100px; 
 } 
 .blue2 {
   width: 100px; 
   height: 100px; 
   background-color: blue; 
+  margin-top: -50px;
+  margin-left: 150px;
 } 
 /* Activity 3 styles */ 
 .content3 {
