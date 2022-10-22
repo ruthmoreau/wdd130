@@ -38,13 +38,15 @@
   width: 100px; 
   height: 100px; 
   background-color: red; 
-  margin-top: -25px;
-  margin-left: -25px;
+  margin-top: 0px;
+  margin-left: 0px;
 } 
 .green2 { 
   width: 100px; 
   height: 100px; 
   background-color: green; 
+  margin-top: -25px;
+  margin-left: -25px;
 } 
 .yellow2 {
   width: 100px; 
