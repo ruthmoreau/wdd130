@@ -38,11 +38,16 @@
   width: 100px; 
   height: 100px; 
   background-color: red; 
+  position: static;
 } 
 .green2 { 
   width: 100px; 
   height: 100px; 
   background-color: green; 
+  position: absolute;
+  top: 25px'
+  right: 25px;
+
 } 
 .yellow2 {
   width: 100px; 
