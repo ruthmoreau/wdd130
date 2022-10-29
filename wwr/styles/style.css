@@ -26,6 +26,10 @@ nav a{
     font-family: 'Roboto', Arial, sans-serif;
     padding: 35px;
 }
+nav {
+    display: flex;
+    justify-content: space-around;
+}
 .home-title{
     text-align: center;
     font-family: 'Rock Salt', Arial, sans-serif;
@@ -70,6 +74,8 @@ header{
     background-color: #B388EB; 
     color: black;
     font-family: 'Rock Salt', Arial, sans-serif;
+    display: grid;
+    grid-template-columns: 150px auto;
 }
 nav a:hover{
     background-color: #B388EB; 
@@ -149,7 +155,9 @@ footer p a:hover{
     font-family: 'Roboto', Arial, sans-serif;
 }
 #logo_link{
-    padding-top: 5px;    
+    padding-top: 5px;  
+    justify-self: center;
+    align-self: center;  
 }
 .social img{
     padding-top: 15px;
