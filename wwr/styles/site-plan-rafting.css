@@ -172,3 +172,8 @@ nav a:hover {
   justify-self: center;
   align-self: center;
 }
+#salmonboatbeach{
+  display:grid;
+  grid-template-columns: 100px 100px;
+  grid-column-gap: auto; 
+}
