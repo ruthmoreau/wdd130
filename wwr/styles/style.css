@@ -19,6 +19,24 @@
     text-align: left;
     grid-column: 2;
 }
+.salmon-img{
+    margin-left: 300px;
+    margin-bottom: 100px;
+    width: 300px;
+    height: 300px;
+}
+.havasu-img{
+    margin-left: 300px;
+    margin-bottom: 100px;
+    width: 300px;
+    height: 300px;
+}
+.sidecanyon{
+    margin-left: 300px;
+    margin-bottom: 100px;
+    width: 300px;
+    height: 300px;
+}
 .logo{
     width: 80px;
 }
