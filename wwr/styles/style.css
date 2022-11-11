@@ -9,9 +9,10 @@
 }
 .rivers-grid{
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(2,1fr);
 }
 .rivers-grid h2{   
+    margin-top: 100px;
     text-align: left;
     grid-column: 2;
 }
@@ -20,20 +21,20 @@
     grid-column: 2;
 }
 .salmon-img{
+    margin-top: 25px;
     margin-left: 300px;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
     width: 300px;
     height: 300px;
 }
 .havasu-img{
     margin-left: 300px;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
     width: 300px;
     height: 300px;
 }
 .sidecanyon{
     margin-left: 300px;
-    margin-bottom: 100px;
     width: 300px;
     height: 300px;
 }
