@@ -7,6 +7,18 @@
     display: grid;
     grid-template-columns: repeat(10, 1fr);
 }
+.rivers-grid{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.rivers-grid h2{   
+    text-align: left;
+    grid-column: 2;
+}
+.rivers-grid p{   
+    text-align: left;
+    grid-column: 2;
+}
 .logo{
     width: 80px;
 }
@@ -215,6 +227,7 @@ footer p a:hover{
     opacity: .6;
     transform: scale(1.1);
 }
+
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
