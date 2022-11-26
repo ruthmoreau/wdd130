@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+French+Canon+SC|Lato');
+#content{
+    max-width: 1600px;
+    margin: 0 auto;
+}
+body{
+    background-color: #9BC995; 
+    color: black;
+    font-family: 'Roboto', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #5171A5; 
+    color: black;
+    font-family: 'Rock Salt', Arial, sans-serif;
+    display: grid;
+    grid-template-columns: 150px auto;
+}
+#content h1{
+    font-family: 'Rock Salt', Arial, sans-serif;
+    margin-top: 30px;
+    margin-left: -30px;;
+}
+nav a:hover{
+    background-color: #B388EB; 
+    color: black;
+    font-family: 'Roboto', Arial, sans-serif;
+}
+nav a{
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Roboto', Arial, sans-serif;
+    padding: 35px;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+.logo{
+    width: 100px;
+}
+.home-title{
+    font-family: 'Rock Salt', Arial, sans-serif;
+    text-align: center;
+}
+#hero h4{
+    font-family: 'Rock Salt', Arial, sans-serif;
+    text-align: center;
+}
+.aloecard-img{
+    width: 250px;
+    height: 250px;
+    margin-left: 350px;
+    margin-right: 100px;
+}
+.aloeicon{
+    width: 250px;
+    height: 250px;
+    margin-left: 200px;
+}
+.soloaloe-card p{
+    font-family: 'Rock Salt', Arial, sans-serif;
+    text-align: center;
+    margin-left: 500px;
+    background-color: #98B9AB;
+    box-sizing: border-box;
+    width: 500px;
+}
+footer{
+    background-color: #5171A5; 
+    color: black;
+    font-family: 'Roboto', Arial, sans-serif;
+    padding: 25px 50px;
+    padding-top: 15px;
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+footer a{
+    text-decoration: none;
+    font-family: 'Roboto', Arial, sans-serif;
+}
+footer p{
+    font-size: 1.2em;
+    font-family: 'Roboto', Arial, sans-serif;
+}
+footer p a:hover{
+    text-decoration: underline;
+    font-family: 'Roboto', Arial, sans-serif;
+}
