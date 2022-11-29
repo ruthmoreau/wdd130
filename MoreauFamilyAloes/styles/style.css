@@ -67,6 +67,25 @@ nav {
     box-sizing: border-box;
     width: 500px;
 }
+.usesaloecard-img{
+    width: 250px;
+    height: 250px;
+    margin-left: 400px;
+    margin-right: 100px;
+}
+.aloeuseicon{
+    width: 250px;
+    height: 250px;
+    margin-left: 100px;
+}
+.usesforaloe-grid p{
+    font-family: 'Rock Salt', Arial, sans-serif;
+    text-align: center;
+    margin-left: 500px;
+    background-color: #98B9AB;
+    box-sizing: border-box;
+    width: 500px;
+}
 footer{
     background-color: #5171A5; 
     color: black;
